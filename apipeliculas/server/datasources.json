@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://cluster0.pzipm.mongodb.net/Cluster0",
+    "port": 47052,
+    "url": "mongodb+srv://newUser:newUser@cluster0.pzipm.mongodb.net/Cluster0?",
+    "database": "Cluster0",
+    "password": "newUser",
+    "name": "db",
+    "user": "newUser",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
